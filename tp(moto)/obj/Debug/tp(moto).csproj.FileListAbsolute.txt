@@ -1,0 +1,33 @@
+C:\Users\Imil\Desktop\tp(moto)\tp(moto)\obj\Debug\tp_moto_.Autorisation.resources
+C:\Users\Imil\Desktop\tp(moto)\tp(moto)\obj\Debug\tp_moto_.Properties.Resources.resources
+C:\Users\Imil\Desktop\tp(moto)\tp(moto)\obj\Debug\tp(moto).csproj.GenerateResource.Cache
+C:\Users\Imil\Desktop\tp(moto)\tp(moto)\obj\Debug\tp(moto).csproj.CoreCompileInputs.cache
+C:\Users\Imil\Desktop\tp(moto)\tp(moto)\bin\Debug\tp(moto).exe.config
+C:\Users\Imil\Desktop\tp(moto)\tp(moto)\bin\Debug\tp(moto).exe
+C:\Users\Imil\Desktop\tp(moto)\tp(moto)\bin\Debug\tp(moto).pdb
+C:\Users\Imil\Desktop\tp(moto)\tp(moto)\obj\Debug\tp(moto).exe
+C:\Users\Imil\Desktop\tp(moto)\tp(moto)\obj\Debug\tp(moto).pdb
+C:\Users\Imil\Desktop\tp(moto)\tp(moto)\obj\Debug\tp(moto).csprojResolveAssemblyReference.cache
+C:\Users\Imil\Desktop\tp(moto)\tp(moto)\obj\Debug\tp_moto_.Main_Menu.resources
+C:\Users\student\Desktop\tp(moto)\tp(moto)\bin\Debug\tp(moto).exe.config
+C:\Users\student\Desktop\tp(moto)\tp(moto)\bin\Debug\tp(moto).exe
+C:\Users\student\Desktop\tp(moto)\tp(moto)\bin\Debug\tp(moto).pdb
+C:\Users\student\Desktop\tp(moto)\tp(moto)\obj\Debug\tp(moto).csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\tp(moto)\tp(moto)\obj\Debug\tp_moto_.Autorisation.resources
+C:\Users\student\Desktop\tp(moto)\tp(moto)\obj\Debug\tp_moto_.Main_Menu.resources
+C:\Users\student\Desktop\tp(moto)\tp(moto)\obj\Debug\tp_moto_.Properties.Resources.resources
+C:\Users\student\Desktop\tp(moto)\tp(moto)\obj\Debug\tp(moto).csproj.GenerateResource.Cache
+C:\Users\student\Desktop\tp(moto)\tp(moto)\obj\Debug\tp(moto).csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\tp(moto)\tp(moto)\obj\Debug\tp(moto).exe
+C:\Users\student\Desktop\tp(moto)\tp(moto)\obj\Debug\tp(moto).pdb
+C:\Users\Imil\Desktop\tp(moto) 1\tp(moto)\obj\Debug\tp(moto).csprojResolveAssemblyReference.cache
+C:\Users\Imil\Desktop\tp(moto) 1\tp(moto)\obj\Debug\tp(moto).exe
+C:\Users\Imil\Desktop\tp(moto) 1\tp(moto)\obj\Debug\tp(moto).pdb
+C:\Users\Imil\Desktop\tp(moto) 1\tp(moto)\bin\Debug\tp(moto).exe.config
+C:\Users\Imil\Desktop\tp(moto) 1\tp(moto)\bin\Debug\tp(moto).exe
+C:\Users\Imil\Desktop\tp(moto) 1\tp(moto)\bin\Debug\tp(moto).pdb
+C:\Users\Imil\Desktop\tp(moto) 1\tp(moto)\obj\Debug\tp_moto_.Autorisation.resources
+C:\Users\Imil\Desktop\tp(moto) 1\tp(moto)\obj\Debug\tp_moto_.Main_Menu.resources
+C:\Users\Imil\Desktop\tp(moto) 1\tp(moto)\obj\Debug\tp_moto_.Properties.Resources.resources
+C:\Users\Imil\Desktop\tp(moto) 1\tp(moto)\obj\Debug\tp(moto).csproj.GenerateResource.Cache
+C:\Users\Imil\Desktop\tp(moto) 1\tp(moto)\obj\Debug\tp(moto).csproj.CoreCompileInputs.cache
